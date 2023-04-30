@@ -23,4 +23,5 @@
     <li><a href="https://kryotsz.github.io/Exercicios_Curso_em_Video/HTML5_CSS3/Exercicios/ex019">ex019</a></li>
     <li><a href="https://kryotsz.github.io/Exercicios_Curso_em_Video/HTML5_CSS3/Exercicios/ex020">ex020</a></li>
     <li><a href="https://kryotsz.github.io/Exercicios_Curso_em_Video/HTML5_CSS3/Exercicios/ex021">ex021</a></li>
+    <li><a href="https://kryotsz.github.io/Exercicios_Curso_em_Video/HTML5_CSS3/Exercicios/ex022">ex022</a></li>
 </ul>
