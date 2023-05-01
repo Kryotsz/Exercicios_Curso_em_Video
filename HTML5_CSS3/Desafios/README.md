@@ -13,4 +13,6 @@
     <li><a href="https://kryotsz.github.io/Exercicios_Curso_em_Video/HTML5_CSS3/Desafios/d010">d010</a></li>
     <li><a href="https://kryotsz.github.io/Exercicios_Curso_em_Video/HTML5_CSS3/Desafios/d011">d011</a></li>
     <li><a href="https://kryotsz.github.io/Exercicios_Curso_em_Video/HTML5_CSS3/Desafios/d012">d012</a></li>
+    <li><a href="https://kryotsz.github.io/Exercicios_Curso_em_Video/HTML5_CSS3/Desafios/d013">d013</a></li>
+    <li><a href="https://kryotsz.github.io/Exercicios_Curso_em_Video/HTML5_CSS3/Desafios/d014">d014</a></li>
 </ul>
