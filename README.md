@@ -3,3 +3,5 @@ Repositório com exercícios resolvidos, propostos pelo canal <a href="https://w
 
 Repositórios:
 <a href="https://kryotsz.github.io/Exercicios_Curso_em_Video/HTML5_CSS3">HTML5_CSS3</a>
+
+<a href="https://github.com/Kryotsz?tab=repositories">Voltar</a>
