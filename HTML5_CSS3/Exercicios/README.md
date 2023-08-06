@@ -27,3 +27,5 @@
     <li><a href="https://kryotsz.github.io/Exercicios_Curso_em_Video/HTML5_CSS3/Exercicios/ex025">ex025 (Formulários)</a></li>
     <li><a href="https://kryotsz.github.io/Exercicios_Curso_em_Video/HTML5_CSS3/Exercicios/ex026">ex026 (Media Queries)</a></li>
 </ul>
+
+<a href="https://kryotsz.github.io/Exercicios_Curso_em_Video/HTML5_CSS3/">Voltar</a>

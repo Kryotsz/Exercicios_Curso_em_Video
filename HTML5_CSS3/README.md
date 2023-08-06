@@ -6,3 +6,5 @@ Repositório com exercícios e desafios de HTML5 e CSS3, seguindo o curso do Pro
     <li><a href="https://kryotsz.github.io/Exercicios_Curso_em_Video/HTML5_CSS3/Desafios">Desafios</a></li>
     <li><a href="https://kryotsz.github.io/Exercicios_Curso_em_Video/HTML5_CSS3/Exercicios">Exercícios</a></li>
 </ul>
+
+<a href="https://kryotsz.github.io/Exercicios_Curso_em_Video/">Voltar</a>
